@@ -9,7 +9,7 @@ on:
       - main
 
 env:
-  DOTNET_VERSION: '4.6.1'
+  DOTNET_VERSION: '5'
 
 jobs:
   build-and-test:
